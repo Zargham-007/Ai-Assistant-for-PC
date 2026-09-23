@@ -1,17 +1,17 @@
 # ⚙️ ZARGHAM 2026
 HOW TO RUN THE AGENT:
 # Ai-Assistant-for-PC
-Download the zip file and open it in vs code editor or any code editor.
+1)Download the zip file and open it in vs code editor or any code editor.
 
-First of all install latest python version.
+2)First of all install latest python version.
 
-Then click on setup.py and press f5 key on the keyboard it takes some time and install all the dependencies.
+3)Then click on setup.py and press f5 key on the keyboard it takes some time and install all the dependencies.
 
-If all dependencies install then click on main.py and press again f5 key from keyboard.
+4)If all dependencies install then click on main.py and press again f5 key from keyboard.
 
-the Ui show on the screen insert your Google Gemini API key and hit enter.
+5)the Ui show on the screen insert your Google Gemini API key and hit enter.
 
-The JARVIS latest version runs on your PC successfully runs.
+6)The JARVIS latest version runs on your PC successfully runs.
 
 ### The Ultimate Cross-Platform Personal AI Assistant — By ZARGHAM
 
